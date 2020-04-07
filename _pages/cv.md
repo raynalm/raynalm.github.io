@@ -8,6 +8,9 @@ redirect_from:
 ---
 
 
-[English version CV [pdf format]](https::/raynalm.github.io/files/raynalm_cv_en.pdf)  
+{% include base_path %}
 
-[CV version française [format pdf]](https::/raynalm.github.io/files/raynalm_cv_fr.pdf)
+[Click to View My Up-to-date Curriculum Vitae [PDF]](http://lantaoyu.github.io/files/lantaoyu_cv.pdf)
+
+<!-- <embed src="https::/raynalm.github.io/files/raynalm_cv_en.pdf" width="650" height="1800" type='application/pdf'> -->
+[English version CV [pdf format]]()  
