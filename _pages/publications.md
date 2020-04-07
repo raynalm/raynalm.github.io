@@ -5,12 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+2018: [Log Analysis via Space-time Pattern Matching](https://ieeexplore.ieee.org/abstract/document/8584975)  
+Anne Bouillard, Marc-Olivier Buob, Maxime Raynal, Achille Salaün.  
+_14th International Conference on Network and Service Management (CNSM)_
