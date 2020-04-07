@@ -7,7 +7,6 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
 
 [English version CV [pdf format]](https::/raynalm.github.io/files/raynalm_cv_en.pdf)  
 
