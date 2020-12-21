@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Maxime Raynal"
   avatar           : "picture.png"
-  bio              : "PhD Student at Nokia - Bell Labs & Université de Grenoble"
+  bio              : "Research Engineer & PhD Student at Nokia - Bell Labs & Université de Grenoble"
   location         : "Grenoble / Paris"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -106,7 +106,7 @@ author:
   orcid            : # "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : https://stackoverflow.com/users/7442673/m-raynal
   steam            :
   tumblr           :
   twitter          : # "replacethistwitterhandle"
