@@ -4,7 +4,7 @@ collection: teaching
 type: "INF402 ou INF432"
 permalink: /teaching/intro-logique
 venue: "Université Grenoble Alpes - DLST"
-date: 2020
+date: 2021-01-01
 location: "Grenoble, France"
 ---
 

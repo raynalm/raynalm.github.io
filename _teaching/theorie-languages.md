@@ -4,7 +4,7 @@ collection: teaching
 type: "TLC1APP"
 permalink: /teaching/theorie-languages
 venue: "ENSIMAG"
-date: 2020
+date: 2021-01-01
 location: "Grenoble, France"
 ---
 
