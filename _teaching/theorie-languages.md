@@ -8,6 +8,10 @@ date: 2021-01-01
 location: "Grenoble, France"
 ---
 
+
+UE de théorie des languages, grammaires et compilation. ENSIMAG 1A.  
+
+
 Tous les contenus de cours sont aussi accessibles sur le [repo git](http://www-verimag.imag.fr/~boulme/TLC1APP/.git) de Sylvain Boulmé.
 
 Contenus de cours

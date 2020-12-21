@@ -8,6 +8,8 @@ date: 2021-01-01
 location: "Grenoble, France"
 ---
 
+UE d'introduction à la logique formelle. L2 INF & MIN  
+
 
 Toutes les infos se trouvent sur [la page du cours](https://wackb.gricad-pages.univ-grenoble-alpes.fr/inf402/)
 ======
