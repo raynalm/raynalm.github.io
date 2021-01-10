@@ -9,7 +9,7 @@ location: "Grenoble, France"
 ---
 
 
-UE de théorie des languages, grammaires et compilation. ENSIMAG 1A.  
+UE de théorie des languages, grammaires et compilation (période 2). ENSIMAG 1A.  
 
 
 Tous les contenus de cours sont aussi accessibles sur le [repo git](http://www-verimag.imag.fr/~boulme/TLC1APP/.git) de Sylvain Boulmé.
@@ -20,10 +20,17 @@ Contenus de cours
 [Chapitre 2](/files/teaching/theorie-languages/chap2.pdf)  
 [Chapitre 3](/files/teaching/theorie-languages/chap3.pdf)  
 [Chapitre 4](/files/teaching/theorie-languages/chap4.pdf)  
-[Chapitre 5](/files/teaching/theorie-languages/chap5.pdf)  
+[Chapitre 5](/files/teaching/theorie-languages/chap5.pdf)
+  
 
-Heading 2
+Fichiers TP
 ======
+[Archive](/files/teaching/theorie-languages/TP_TLC.zip)  
 
-Heading 3
+
+Planning
 ======
+TBD
+
+
+Tous les contenus de cours sont aussi accessibles sur le [repo git](http://www-verimag.imag.fr/~boulme/TLC1APP/.git) de Sylvain Boulmé.
