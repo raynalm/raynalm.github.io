@@ -21,16 +21,14 @@ Contenus de cours
 [Chapitre 3](/files/teaching/theorie-languages/chap3.pdf)  
 [Chapitre 4](/files/teaching/theorie-languages/chap4.pdf)  
 [Chapitre 5](/files/teaching/theorie-languages/chap5.pdf)
-  
-
-Fichiers TP
-======
-[Archive](/files/teaching/theorie-languages/TP_TLC.zip)  
+[Fichiers TP (archive)](/files/teaching/theorie-languages/TP_TLC.zip)  
 
 
 Planning
 ======
-TBD
+18/01 (1h30):
+      * Rappels théorie languages + début du chapitre 2
 
-
-Tous les contenus de cours sont aussi accessibles sur le [repo git](http://www-verimag.imag.fr/~boulme/TLC1APP/.git) de Sylvain Boulmé.
+11/01 (1h30):
+      * Intro au cours
+      * TP: tâche 1
