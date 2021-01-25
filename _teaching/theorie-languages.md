@@ -26,8 +26,12 @@ Contenus de cours
 
 Planning
 ======
-18/01 (1h30):  
-* Lien zoom pour le cours: https://grenoble-inp.zoom.us/j/96594950240  
+27/01 (3h):
+* Lien zoom pour le cours: TBD, sera uploadé ici et envoyé par mail avant le cours.
+* Chapitre 2 (jusqu'à la fin ?)
+* TD tâche 2
+
+18/01 (1h30):
 * Rappels théorie languages + début du chapitre 2  
 
 11/01 (1h30):  
