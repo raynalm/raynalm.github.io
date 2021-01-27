@@ -26,11 +26,13 @@ Contenus de cours
 
 Planning
 ======
-27/01 (3h):
-* [Lien zoom pour le cours](https://grenoble-inp.zoom.us/j/96075316575)
-    * Attention, conflit apparent avec le cours de logique sur les EdT. MaJ @ 9h45.
+03/02 (3h):  
+* Lien zoom: TBD, sera envoyé par mail et affiché ici avant le cours.
 * Chapitre 2 jusqu'à la fin, début du chapitre 3
 * TD tâche 2, début tâche 3.
+
+27/01 (3h):
+* Cours annulé (conflit emploi du temps)  
 
 18/01 (1h30):
 * Rappels théorie languages + début du chapitre 2  
