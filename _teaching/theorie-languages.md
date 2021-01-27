@@ -27,7 +27,7 @@ Contenus de cours
 Planning
 ======
 27/01 (3h):
-* Lien zoom pour le cours: TBD, sera uploadé ici et envoyé par mail avant le cours.
+* [Lien zoom pour le cours](https://grenoble-inp.zoom.us/j/96075316575)
 * Chapitre 2 (jusqu'à la fin ?)
 * TD tâche 2
 
