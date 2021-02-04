@@ -9,7 +9,7 @@ author_profile: true
 Anne Bouillard, Marc-Olivier Buob, Achille Salaün, Maxime Raynal.  
 _ALGOTEL 2020: 22èmes Rencontres Francophones sur les Aspects Algorithmiques des Télécommunications_
 
-2018: [Log Analysis via Space-time Pattern Matching](https://ieeexplore.ieee.org/abstract/document/8584975)  
+2018: [Log Analysis via Space-time Pattern Matching](https://hal.archives-ouvertes.fr/hal-02909936/document)  
 Anne Bouillard, Marc-Olivier Buob, Maxime Raynal, Achille Salaün.  
 _14th International Conference on Network and Service Management (CNSM)_
 
