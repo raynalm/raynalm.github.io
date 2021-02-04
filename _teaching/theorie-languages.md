@@ -26,8 +26,11 @@ Contenus de cours
 
 Planning
 ======
+04/02 (3h):  
+* [Lien zoom](https://grenoble-inp.zoom.us/j/94569678261)
+* Chapitre 3
+
 03/02 (3h):  
-* [Lien zoom](https://grenoble-inp.zoom.us/j/91954477103)
 * Chapitre 2 jusqu'à la fin, début du chapitre 3
 * TD tâche 2, début tâche 3.
 
