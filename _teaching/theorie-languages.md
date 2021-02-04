@@ -20,9 +20,9 @@ Contenus de cours
 [Chapitre 4](/files/teaching/theorie-languages/chap4.pdf)  
 [Chapitre 5](/files/teaching/theorie-languages/chap5.pdf)  
 [Fichiers TP (archive)](/files/teaching/theorie-languages/TP_TLC.zip)  
-[Corrigé Exs 3 1ere page](/files/teaching/theorie-languages/ex3-12.jpg)
-[Corrigé Exs 3 2eme page](/files/teaching/theorie-languages/ex3-123.jpg)
-[Corrigé Exs 3 3e page](/files/teaching/theorie-languages/ex3-1234.jpg)
+[Corrigé Exs 3 1ere page](/files/teaching/theorie-languages/ex3_12.jpg)  
+[Corrigé Exs 3 2eme page](/files/teaching/theorie-languages/ex3_123.jpg)  
+[Corrigé Exs 3 3e page](/files/teaching/theorie-languages/ex3_1234.jpg)  
 
 Planning
 ======
