@@ -26,7 +26,12 @@ Contenus de cours
 
 Planning
 ======
-04/02 (3h):  
+11/02 (3h):
+* Lien zoom: TBD, sera mis à jour avant le cours
+* Chapitre 3
+
+
+04/02 (3h):
 * Chapitre 3
 
 03/02 (3h):  
