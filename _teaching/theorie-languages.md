@@ -23,9 +23,11 @@ Contenus de cours
 
 Planning
 ======
-04/02 (3h):  
-* [Lien Zoom](https://grenoble-inp.zoom.us/j/96096546562)
-* Chapitre 3
+
+=======
+11/02 (3h):
+* [Lien Zoom](https://grenoble-inp.zoom.us/j/96096546562)  
+* Chapitre 3  
 * [Ex 3 mars 2018](/files/teaching/theorie-languages/ex_3_mars2018.pdf)  
 
 03/02 (3h):  
