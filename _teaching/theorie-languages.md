@@ -20,18 +20,20 @@ Contenus de cours
 [Chapitre 4](/files/teaching/theorie-languages/chap4.pdf)  
 [Chapitre 5](/files/teaching/theorie-languages/chap5.pdf)  
 [Fichiers TP (archive)](/files/teaching/theorie-languages/TP_TLC.zip)  
-[Corrigé Exs 3 1ere page](/files/teaching/theorie-languages/ex3_12.jpg)  
-[Corrigé Exs 3 2eme page](/files/teaching/theorie-languages/ex3_123.jpg)  
-[Corrigé Exs 3 3e page](/files/teaching/theorie-languages/ex3_1234.jpg)  
 
 Planning
 ======
 04/02 (3h):  
+* [Lien Zoom](https://grenoble-inp.zoom.us/j/96096546562)
 * Chapitre 3
+* [Ex 3 mars 2018](/files/teaching/theorie-languages/ex_3_mars2018.pdf)  
 
 03/02 (3h):  
 * Chapitre 2 jusqu'à la fin, début du chapitre 3
 * TD tâche 2, début tâche 3.
+* [Corrigé Exs 3 1ere page](/files/teaching/theorie-languages/ex3_12.jpg)  
+* [Corrigé Exs 3 2eme page](/files/teaching/theorie-languages/ex3_123.jpg)  
+* [Corrigé Exs 3 3e page](/files/teaching/theorie-languages/ex3_1234.jpg)  
 
 27/01 (3h):
 * Cours annulé (conflit emploi du temps)  
