@@ -28,7 +28,8 @@ Planning
 11/02 (3h):
 * [Lien Zoom](https://grenoble-inp.zoom.us/j/96096546562)  
 * Chapitre 3  
-* [Ex 3 mars 2018](/files/teaching/theorie-languages/ex_3_mars2018.pdf)  
+* [Ex 3 mars 2018](/files/teaching/theorie-languages/ex_3_mars2018.pdf)
+* [Corrigé question 2(archive)](/files/teaching/theorie-languages/correction_ex_3_mars18_q2.tar.xz)
 
 03/02 (3h):  
 * Chapitre 2 jusqu'à la fin, début du chapitre 3
