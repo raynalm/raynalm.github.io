@@ -24,7 +24,6 @@ Contenus de cours
 Planning
 ======
 
-=======
 11/02 (3h):
 * [Lien Zoom](https://grenoble-inp.zoom.us/j/96096546562)  
 * Chapitre 3  
