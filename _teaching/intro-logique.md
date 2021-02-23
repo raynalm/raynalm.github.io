@@ -14,4 +14,5 @@ UE d'introduction à la logique formelle. L2 INF & MIN
 Toutes les infos se trouvent sur [la page du cours](https://wackb.gricad-pages.univ-grenoble-alpes.fr/inf402/)  
 
 [Quick 1](/files/teaching/INF402Quick1.pdf)  
+[Autres quicks](/files/teaching/INF402quicks.zip)  
 ======
