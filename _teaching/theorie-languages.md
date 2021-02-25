@@ -32,6 +32,7 @@ Planning
 11/02 (3h):
 * Chapitre 3  
 * [Ex 3 mars 2018](/files/teaching/theorie-languages/ex_3_mars2018.pdf)
+* [Corrigé partiel ex3](/files/teaching/theorie-languages/ex_3.zip)
 * [Corrigé question 2(archive)](/files/teaching/theorie-languages/correction_ex_3_mars18_q2.tar.xz)
 
 03/02 (3h):  
