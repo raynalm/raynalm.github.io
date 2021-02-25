@@ -23,9 +23,13 @@ Contenus de cours
 
 Planning
 ======
+25/02 (3h):
+* Lien Zoom: TBD, sera en ligne 10 minutes avant le cours.
+* TP tâches 3/4
+* Fin chap. 3
+
 
 11/02 (3h):
-* [Lien Zoom](https://grenoble-inp.zoom.us/j/96096546562)  
 * Chapitre 3  
 * [Ex 3 mars 2018](/files/teaching/theorie-languages/ex_3_mars2018.pdf)
 * [Corrigé question 2(archive)](/files/teaching/theorie-languages/correction_ex_3_mars18_q2.tar.xz)
