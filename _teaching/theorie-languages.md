@@ -24,7 +24,7 @@ Contenus de cours
 Planning
 ======
 25/02 (3h):
-* Lien Zoom: TBD, sera en ligne 10 minutes avant le cours.
+* [Lien Zoom](https://grenoble-inp.zoom.us/j/99173350925)
 * TP tâches 3/4
 * Fin chap. 3
 
